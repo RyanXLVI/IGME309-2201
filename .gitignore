@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/IGME309-2201/v16
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/E01/.vs/E01/v16
