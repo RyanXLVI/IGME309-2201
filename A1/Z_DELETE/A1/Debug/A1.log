@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(33,21): warning C4305:  'argument': truncation from 'double' to 'Placeholder'
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(33,21): warning C4305:         with
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(33,21): warning C4305:         [
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(33,21): warning C4305:             Placeholder=float
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(33,21): warning C4305:         ]
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(34,22): warning C4305:  'argument': truncation from 'double' to 'Placeholder'
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(34,22): warning C4305:         with
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(34,22): warning C4305:         [
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(34,22): warning C4305:             Placeholder=float
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(34,22): warning C4305:         ]
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(37,23): warning C4305:  'argument': truncation from 'double' to 'Placeholder'
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(37,23): warning C4305:         with
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(37,23): warning C4305:         [
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(37,23): warning C4305:             Placeholder=float
+C:\Users\ryans\source\repos\IGME309-2201\A1\A1\Main.cpp(37,23): warning C4305:         ]
+  A1.vcxproj -> C:\Users\ryans\source\repos\IGME309-2201\A1\Z_DELETE\A1_d.exe
+  Copying Binary...
+  A subdirectory or file C:\Users\ryans\source\repos\IGME309-2201\A1\_Binary\ already exists.
+          1 file(s) copied.
