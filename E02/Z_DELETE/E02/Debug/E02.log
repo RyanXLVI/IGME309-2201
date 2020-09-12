@@ -1,0 +1,10 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  E02.vcxproj -> C:\Users\ryans\source\repos\IGME309-2201\E02\Z_DELETE\E02_d.exe
+  Copying Binary...
+  A subdirectory or file C:\Users\ryans\source\repos\IGME309-2201\E02\_Binary\ already exists.
+          1 file(s) copied.
+  C:\Users\ryans\source\repos\IGME309-2201\E02\include\OpenGL-Tutorials\shaders\Simple.fs
+  C:\Users\ryans\source\repos\IGME309-2201\E02\include\OpenGL-Tutorials\shaders\Simple.vs
+          2 file(s) copied.
+  C:\Users\ryans\source\repos\IGME309-2201\E02\include\GL\bin\glew32.dll
+          1 file(s) copied.
